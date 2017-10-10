@@ -14,7 +14,7 @@ A succinct paragraph that elaborates on the one line description. This should te
 Getting started
 ---------------
 
-Relevant information you need to know before you navigate.
+Relevant information you need to know before you navigate. More context will then be provide by the component specific readmes. This is how the top level readme is taking the place of a wiki/delegator.
 
 - [Arm](/arm/readme.md)
 - [Body](/body/readme.md)
