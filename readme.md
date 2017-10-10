@@ -14,10 +14,10 @@ A succinct paragraph that elaborates on the one line description. This should te
 Getting started
 ---------------
 
-- [Arm](/arm/readme.md)
-- [Body Started](/body/readme.md)
-
 Relevant information you need to know before you navigate.
+
+- [Arm](/arm/readme.md)
+- [Body](/body/readme.md)
 
 Contributing
 ------------
